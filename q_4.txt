@@ -1,5 +1,5 @@
-A player rolls the dice. After the dice have come to rest, the sum of the spots on the two upward faces is
-calculated. If the sum is 7 or 11 on the first throw, the player wins. If the sum is 2, 3,or 12 on the first throw , the player loses. 
+The game works like this.First,A player rolls the dice. After the dice comes to rest, the sum of the spots on the two upward faces is
+. If the sum is 7 or 11 on the first throw, the player wins. If the sum is 2, 3,or 12 on the first throw , the player loses. 
 If the sum is 4, 5, 6, 8, 9, or 10 on the first throw, then that sum becomes the player’s“point”. To win, you must continue rolling the 
 dice until you “make your point.” The player loses by rolling a 7 before making the point.
 So basically what the program does once it starts executing is :
